@@ -1,36 +1,45 @@
 # ToDo-App-React
 
-ToDo App created with React and Vite. Features dark mode as well as light mode. Includes a slider to adjust the secondary colour.
+ToDo App with created with React and Vite. Features dark mode as well as light mode. Includes a slider to adjust secondary colour.
 
----
-
+<hr>
 <br>
 
 <!-- Technologies used -->
-## 🛠 Languages and Tools:
+<div name = "Technologies"> 
+<h2 align="left">🛠 Languages and Tools:</h2>
 <br>
 <p>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
 
-<a href="https://vite.dev/" target="_blank" rel="noreferrer">
-  <img src="https://vite.dev/logo.svg" alt="vite" width="40" height="40"/>
+<a href="https://vite.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://vite.dev/logo.svg" alt="react" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
 </p>
+</div>
 
----
-
-## 👀 View online:
+<hr>
 <br>
-<a href="https://todo-app-vinay.netlify.app/" target="_blank" rel="noreferrer">Deployment Link</a>
 
----
+<!-- Online link -->
+<div name = "Online presence"> 
+<h2 align="left">👀 View online:</h2>
+<br>
+<a href="https://todo-app-vinay.netlify.app/" target="_blank" rel="noreferrer">
+Deployment Link</a>
+</div> 
+<br>
 
-## 📸 App Screenshot
-
-![My Task List UI](./screenShot.png)
+<!-- App Screenshot -->
+<div name="App Screenshot"> 
+<h2 align="left">📸 App Screenshot:</h2>
+<br>
+<img src="/screenShot.png" alt="App Screenshot" width="100%" />
+</div>
+<br>
