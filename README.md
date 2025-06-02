@@ -1,4 +1,4 @@
-# ToDo-App-React-Vite-DarkMode
+# ToDo-App-React
 ToDo App with created with React and Vite. Features dark mode as well as light mode. Includes a slider to adjust secondary colour.
 
 <hr>
@@ -20,27 +20,13 @@ ToDo App with created with React and Vite. Features dark mode as well as light m
 
 <hr>
 
-
-
-<br>
- <!-- Screenshot -->
-  <a href="https://deftpegtodothemeswitcher.netlify.app/" target="_blank" rel="noreferrer"> <img align="right" src="public/screenShot.png" alt="ToDo App with theme changer" height="200"/> </a> 
-
-<br>
 <br>
 
    <!-- Online link -->
    <div name = "Online presence"> 
 <h2 align="left">👀 View online:</h2>
 <br>
-<a href="https://deftpegtodothemeswitcher.netlify.app//" target="_blank" rel="noreferrer">
-Take me to the website, </a>
-or alternately, click on the image 👉
-
-
+<a href="https://todo-app-vinay.netlify.app/" target="_blank" rel="noreferrer">
+Deployment Link</a>
 </div> 
-
-
-
-
 <br>
