@@ -33,6 +33,4 @@ ToDo App created with React and Vite. Features dark mode as well as light mode. 
 
 ## 📸 App Screenshot
 
-Here’s a preview of the ToDo App interface:
-
-![App Screenshot](/screenShot.png)
+![My Task List UI](./screenShot.png)
