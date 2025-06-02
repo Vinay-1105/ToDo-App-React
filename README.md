@@ -55,13 +55,13 @@ Deployment Link</a>
     <td align="center">
       <div style="padding: 18px;">
         <img src="src/assets/ScreenshotDark01.png" width="400" style="border-radius: 12px;" />
-        <br/>Dark Mode - Feed
+        <br/>Dark Mode - Modal
       </div>
     </td>
     <td align="center">
       <div style="padding: 18px;">
         <img src="src/assets/ScreenshotDark02.png" width="400" style="border-radius: 12px;" />
-        <br/>Another View
+        <br/>Dark Mode - Feed
       </div>
     </td>
   </tr>
