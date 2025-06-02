@@ -38,6 +38,6 @@ Deployment Link</a>
 <div name="App Screenshot"> 
 <h2 align="left">📸 App Screenshot:</h2>
 <br>
-<img src="/screenShot.png" alt="App Screenshot" width="100%" />
+<img src="public/screenShot.png" alt="App Screenshot" width="100%" />
 </div>
 <br>
