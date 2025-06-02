@@ -39,23 +39,32 @@ Deployment Link</a>
 <table>
   <tr>
     <td align="center">
-      <img src="src/assets/ScreenshotLight01.png" width="360" style="border-radius: 12px; padding: 12px;" />
-      <br/>Light Mode - Feed
+      <div style="padding: 16px;">
+        <img src="src/assets/ScreenshotLight01.png" width="360" style="border-radius: 12px;" />
+        <br/>Light Mode - Feed
+      </div>
     </td>
     <td align="center">
-      <img src="src/assets/ScreenshotLight02.png" width="360" style="border-radius: 12px; padding: 12px;" />
-      <br/>Light Mode - Modal
+      <div style="padding: 16px;">
+        <img src="src/assets/ScreenshotLight02.png" width="360" style="border-radius: 12px;" />
+        <br/>Light Mode - Modal
+      </div>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="src/assets/ScreenshotDark01.png" width="360" style="border-radius: 12px; padding: 12px;" />
-      <br/>Dark Mode - Feed
+      <div style="padding: 16px;">
+        <img src="src/assets/ScreenshotDark01.png" width="360" style="border-radius: 12px;" />
+        <br/>Dark Mode - Feed
+      </div>
     </td>
     <td align="center">
-      <img src="src/assets/ScreenshotDark02.png" width="360" style="border-radius: 12px; padding: 12px;" />
-      <br/>Another View
+      <div style="padding: 16px;">
+        <img src="src/assets/ScreenshotDark02.png" width="360" style="border-radius: 12px;" />
+        <br/>Another View
+      </div>
     </td>
   </tr>
 </table>
+
 
