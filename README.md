@@ -39,22 +39,23 @@ Deployment Link</a>
 <table>
   <tr>
     <td align="center">
-      <img src="src/assets/ScreenshotLight01.png" width="300"/>
+      <img src="src/assets/ScreenshotLight01.png" width="360" style="border-radius: 12px; padding: 12px;" />
       <br/>Light Mode - Feed
     </td>
     <td align="center">
-      <img src="src/assets/ScreenshotLight02.png" width="300"/>
+      <img src="src/assets/ScreenshotLight02.png" width="360" style="border-radius: 12px; padding: 12px;" />
       <br/>Light Mode - Modal
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="src/assets/ScreenshotDark01.png" width="300"/>
+      <img src="src/assets/ScreenshotDark01.png" width="360" style="border-radius: 12px; padding: 12px;" />
       <br/>Dark Mode - Feed
     </td>
     <td align="center">
-      <img src="src/assets/ScreenshotDark02.png" width="300"/>
+      <img src="src/assets/ScreenshotDark02.png" width="360" style="border-radius: 12px; padding: 12px;" />
       <br/>Another View
     </td>
   </tr>
 </table>
+
