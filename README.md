@@ -8,19 +8,19 @@ ToDo App with created with React and Vite. Features dark mode as well as light m
 <div name="Technologies"> 
   <h2 align="left">🛠 Languages and Tools:</h2>
   <br>
-  <div style="display: flex; flex-direction: column; gap: 16px; align-items: flex-start;">
+  <p>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><br><br>
     </a>
 
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-      <img src="https://vite.dev/logo.svg" alt="vite" width="40" height="40"/>
-    </a>
+      <img src="https://vite.dev/logo.svg" alt="vite" width="40" height="40"/><br><br>
+  </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-  </div>
+  </a>
+  </p>
 </div>
 
 
