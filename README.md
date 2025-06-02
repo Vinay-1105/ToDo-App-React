@@ -1,8 +1,6 @@
 # ToDo-App-React
 ToDo App was created with React and Vite. Features dark mode as well as light mode. Includes a slider to adjust secondary colour.
-
 <hr>
-
 <br>
 <!-- Technologies used -->
 <div name = "Technologies"> 
