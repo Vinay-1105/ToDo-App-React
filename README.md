@@ -34,10 +34,27 @@ Deployment Link</a>
 </div> 
 <br>
 
-<!-- App Screenshot -->
-<div name="App Screenshot"> 
-<h2 align="left">📸 App Screenshot:</h2>
-<br>
-<img src="public/screenShot.png" alt="App Screenshot" width="100%" />
-</div>
-<br>
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="src/assets/ScreenshotLight01.png" width="300"/>
+      <br/>Light Mode - Feed
+    </td>
+    <td align="center">
+      <img src="src/assets/ScreenshotLight02.png" width="300"/>
+      <br/>Light Mode - Modal
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="src/assets/ScreenshotDark01.png" width="300"/>
+      <br/>Dark Mode - Feed
+    </td>
+    <td align="center">
+      <img src="src/assets/ScreenshotDark02.png" width="300"/>
+      <br/>Another View
+    </td>
+  </tr>
+</table>
